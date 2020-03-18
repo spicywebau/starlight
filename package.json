@@ -1,6 +1,6 @@
 {
-	"name": "starlight",
-	"title": "Starlight",
+	"name": "spicylight",
+	"title": "Spicylight",
 	"description": "A comprehensive CSS framework that stays out of your way",
 	"author": "Benjamin Fleming <benjfleming21@gmail.com> (https://benjamminf.github.io)",
 	"version": "0.3.9",
@@ -13,13 +13,13 @@
 		"framework",
 		"web"
 	],
-	"homepage": "https://github.com/benjamminf/starlight",
+	"homepage": "https://github.com/spicywebau/starlight/",
 	"bugs": {
-		"url": "https://github.com/benjamminf/starlight/issues"
+		"url": "https://github.com/spicywebau/starlight/issues"
 	},
 	"repository": {
 		"type": "git",
-		"url": "git+https://github.com/benjamminf/starlight.git"
+		"url": "git+https://github.com/spicywebau/starlight.git"
 	},
 	"main": "Gruntfile.js",
 	"scripts": {
